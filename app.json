@@ -3,7 +3,7 @@
     "description": "WhatsApp public/user bot",
     "logo": "https://i.imgur.com/OnFt7Gi.jpeg",
     "keywords": ["WhatsApp"],
-    "repository": "https://github.com/Kiranxer/Hermit-depoly",
+    "repository": "https://github.com/Kiranxer/Hermit-deploy",
     "stack": "container",
   "env": {
     "SESSION_ID": {
