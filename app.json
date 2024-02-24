@@ -1,11 +1,10 @@
 {
-  "name": "Ub Nika God",
-  "description": " Whatsapp wot.",
-  "keywords": [
-    "whatsapp bot"
-  ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
-  "stack": "container",
+    "name": "kiran xer wabot",
+    "description": "WhatsApp public/user bot",
+    "logo": "https://i.imgur.com/OnFt7Gi.jpeg",
+    "keywords": ["WhatsApp"],
+    "repository": "https://github.com/Kiranxer/Hermit-depoly",
+    "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "session id",
